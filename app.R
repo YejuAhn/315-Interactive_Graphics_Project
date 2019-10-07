@@ -2,6 +2,6 @@ library(shiny)
 
 # Run the application 
 
-setwd("/Users/cat/Desktop/server")
+setwd("/Users/jessicaahn/Desktop/server")
 shiny::runApp() 
 
